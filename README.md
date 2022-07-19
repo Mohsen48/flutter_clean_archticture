@@ -1,4 +1,4 @@
-# budget
+# Clean archticture with flutter
 
 A new Flutter project.
 
